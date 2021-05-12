@@ -5,3 +5,4 @@ function squareDigits(num){
       }
   return Number(acum);
   }
+  
